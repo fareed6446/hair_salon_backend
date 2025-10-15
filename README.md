@@ -1,1 +1,0 @@
-# hair_salon_backend
