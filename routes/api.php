@@ -49,3 +49,4 @@ Route::middleware('auth:api')->group(function () {
     // Time slot routes
     Route::get('/time-slots', [TimeSlotController::class, 'index']);
 });
+

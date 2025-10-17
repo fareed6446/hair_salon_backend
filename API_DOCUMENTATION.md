@@ -685,3 +685,5 @@ Handle different HTTP status codes:
 **API Version**: 1.0  
 **Last Updated**: January 2024  
 **Base URL**: `http://localhost:8000/api`
+
+
