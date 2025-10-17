@@ -687,3 +687,4 @@ Handle different HTTP status codes:
 **Base URL**: `http://localhost:8000/api`
 
 
+
